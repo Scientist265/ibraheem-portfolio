@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_animate/flutter_animate.dart';
 import 'package:ibraheem_portfolio/constants/app_colors.dart';
 import 'package:ibraheem_portfolio/models/project_models.dart';
 import 'package:url_launcher/url_launcher.dart';
